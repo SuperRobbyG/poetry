@@ -4,4 +4,3 @@ This is a readme file
 
 * Poe
 * Shakespeare
-* Berglund
