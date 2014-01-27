@@ -2,5 +2,5 @@ This is a readme file
 
 ### Authors of Poetry
 
-* Poe
-* Shakespeare
+* Edgar Allen Poe
+* William Shakespeare
