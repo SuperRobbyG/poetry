@@ -6,5 +6,4 @@ This is a readme file
 
 ## Selcetions
 
-Dream without a Dream
-Bridal something
+Dream without a Dream (1849)
